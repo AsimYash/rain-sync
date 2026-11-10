@@ -1,5 +1,7 @@
 # RainSync – Smart Community Rainwater Harvesting & Distribution
 
+🌐 **Live Website:** [https://rain-sync.vercel.app](https://rain-sync.vercel.app)
+
 An interactive 3D digital twin of a community rainwater system: three houses, each with its own
 underground tank, rooftop tank and pump, all supplied from one large shared underground community tank.
 
